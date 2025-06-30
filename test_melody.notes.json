@@ -1,0 +1,30 @@
+[
+  {
+    "instrument": "unknown",
+    "start": 0.0116,
+    "end": 0.4876,
+    "pitch": 69,
+    "name": "A4"
+  },
+  {
+    "instrument": "unknown",
+    "start": 0.4876,
+    "end": 0.9868,
+    "pitch": 72,
+    "name": "C5"
+  },
+  {
+    "instrument": "unknown",
+    "start": 0.9868,
+    "end": 1.4861,
+    "pitch": 76,
+    "name": "E5"
+  },
+  {
+    "instrument": "unknown",
+    "start": 1.4861,
+    "end": 1.9853,
+    "pitch": 81,
+    "name": "A5"
+  }
+]
